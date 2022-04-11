@@ -6,6 +6,7 @@
 <p align="center">
   <samp>👋 Hello there. I'm Edward Xu, a Computer Science Student @ University of Waterloo. Previously interned @ Huawei Canada.</samp><br/><br/>
   <samp>❤️ Coding for Fun.</samp>
+  <samp>📧 Email: e32xu@uwaterloo.ca </samp>
   <br />
 </p>
 
@@ -21,9 +22,6 @@
   <img align="center" src="https://github-readme-stats-francois-rozet.vercel.app/api?username=Edward-J-Xu&line_height=28&count_private=true&show_icons=true&include_all_commits=true&theme=solarized-light&border_radius=3" height="180" />
 </a>
   
-<a href="https://github.com/anuraghazra/github-readme-stat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edward-J-Xu&layout=compact&theme=solarized-light&border_radius=3&card_width=300"  height="180" />
-</a>
 </p>
 
 <!--

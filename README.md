@@ -1,4 +1,13 @@
+
+<!--
 ### Hi there 👋
+-->
+
+<p align="center">
+  <samp>👋 Hello there. I'm Edward Xu, a Computer Science Student @ University of Waterloo. Previously interned @ Huawei Canada.</samp><br/><br/>
+  <samp>❤️Coding for Fun.</samp>
+  <br />
+</p>
 
 <!--
 **Edward-J-Xu/Edward-J-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

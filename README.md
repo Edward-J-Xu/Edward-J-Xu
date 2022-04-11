@@ -20,6 +20,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats/pull/1186">
   <img align="center" src="https://github-readme-stats-francois-rozet.vercel.app/api?username=Edward-J-Xu&line_height=28&count_private=true&show_icons=true&include_all_commits=true&theme=solarized-light&border_radius=3" height="180" />
 </a>
+  
+<a href="https://github.com/anuraghazra/github-readme-stat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edward-J-Xu&layout=compact&theme=solarized-light&border_radius=3&card_width=300"  height="180" />
+</a>
+</p>
 
 <!--
 **Edward-J-Xu/Edward-J-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

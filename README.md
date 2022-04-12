@@ -19,6 +19,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edward-J-Xu&count_private=true&show_icons=true&theme=synthwave)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Edward-J-Xu)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Edward-J-Xu/Edward-J-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

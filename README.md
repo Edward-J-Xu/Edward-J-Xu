@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <samp>👋 Hello there. I'm Edward Xu, a Computer Science Student @ University of Waterloo. Previously interned @ Huawei Canada.</samp><br/><br/>
+  <samp>👋 Hello there. I'm Edward Xu, a Computer Science Student @ Uof Waterloo. Previously interned @ Cerebras Systems, Huawei Canada.</samp><br/><br/>
   <samp>❤️ Coding for Fun.</samp>
   <samp>📧 Email: e32xu@uwaterloo.ca </samp>
   <br />

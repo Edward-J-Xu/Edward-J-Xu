@@ -16,8 +16,12 @@
 * <samp>🎼 Music lover~ Love listening and composing</samp>
 * <samp>🎸 Guitar Player since 12-yr-old</samp>
 * <samp>🥁 Drumm3r since 16-yr-old</samp>
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edward-J-Xu&count_private=true&show_icons=true&theme=synthwave)
+-->
+# 
+[![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edward-J-Xu&show_icons=true&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edward-J-Xu&count_private=true&show_icons=truet&layout=compact&theme=algolia&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Edward-J-Xu/Edward-J-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

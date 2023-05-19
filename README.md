@@ -11,7 +11,7 @@
 </p>
 
 * <samp>🦋 Believer of elegant code</samp>
-* <samp>🖥️ Systems Programming, Machine Learning</samp>
+* <samp>🖥️ Systems Programming, Machine Learning, Cloud</samp>
 * <samp>📖 Self-motivated learner, coding since 13-yr-old</samp>
 * <samp>🎼 Music lover~ Love listening and composing</samp>
 * <samp>🎸 Guitar Player since 12-yr-old</samp>

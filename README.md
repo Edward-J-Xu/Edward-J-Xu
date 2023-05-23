@@ -24,6 +24,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edward-J-Xu&count_private=false&show_icons=truet&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Edward-J-Xu)
+<!--
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Edward-J-Xu&label=Profile%20views&color=0e75b6&style=flat" alt="kevin21jin" /> </p>
+-->
 
 <!--
 **Edward-J-Xu/Edward-J-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

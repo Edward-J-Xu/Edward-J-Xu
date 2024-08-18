@@ -19,7 +19,7 @@
 
 # 
 
-[![Top Langs](https://github-readme-stats-gray-beta.vercel.app/api/top-langs/?username=Edward-J-Xu&count_private=true&show_icons=true&hide_progress=true&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nu-six-99.vercel.app/api/top-langs/?username=Edward-J-Xu&count_private=true&show_icons=true&hide_progress=true&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Edward-J-Xu)
 
